@@ -1,1 +1,1 @@
-npm stop
+npm run stop
